@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Hekstra Lab Home
 ---
 
 **Welcome to the Hekstra Lab's github.io homepage**
