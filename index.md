@@ -3,8 +3,7 @@ layout: default
 title: Hekstra Lab
 subtitle: A secondary lab website hosted on GitHub
 ---
-![PDZ3 arrow diagram](/PDZ3_arrow_diagram.png)
-**Welcome to the github.io homepage of the lab of Prof. Doeke Hekstra in the Harvard Department of Molecular & Cellular Biology. This website is just a landing page, but hopefully the links below can help you find what you're looking for.**
+<img src="/PDZ3_arrow_diagram.png" align="left"> **Welcome to the github.io homepage of the lab of Prof. Doeke Hekstra in the Harvard Department of Molecular & Cellular Biology. This website is just a landing page, but hopefully the links below can help you find what you're looking for.**
 
 ## Some useful links:
 
