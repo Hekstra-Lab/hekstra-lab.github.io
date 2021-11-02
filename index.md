@@ -16,3 +16,6 @@ The homepage for the Hekstra Lab GitHub organization contains links to all of ou
 
 ### [reciprocalspaceship Documentation](https://hekstra-lab.github.io/reciprocalspaceship/)
 We do use GitHub hosting for the `reciprocalspaceship` documentation. Check out our package that makes it easy to work with crystallographic data in Python
+
+### [Lab Twitter](https://twitter.com/HekstraLab)
+Find us on twitter!
