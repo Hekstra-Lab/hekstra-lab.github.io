@@ -19,3 +19,6 @@ We do use GitHub hosting for the `reciprocalspaceship` documentation. Check out 
 
 ### [Lab Twitter](https://twitter.com/HekstraLab)
 Find us on twitter!
+
+### [Lab `conda` environments](https://hekstra-lab.github.io/envs/)
+A compilation of `.yaml` files for `conda` environments useful for lab projects.
