@@ -14,6 +14,9 @@ Our main lab website, including a research summary, lab membership, publications
 ### [Lab GitHub](https://github.com/Hekstra-Lab)
 The homepage for the Hekstra Lab GitHub organization contains links to all of our lab's public repositories.
 
+### [Reciprocal Space Station](https://rs-station.github.io/)
+Reciprocal Space Station is the new home for `reciprocalspaceship` and other open-source crystallography packages such as `careless` and `rs-booster`.
+
 ### [reciprocalspaceship Documentation](https://hekstra-lab.github.io/reciprocalspaceship/)
 We do use GitHub hosting for the `reciprocalspaceship` documentation. Check out our package that makes it easy to work with crystallographic data in Python
 
